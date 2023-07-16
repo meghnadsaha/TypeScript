@@ -32,8 +32,13 @@ function reduceArrayUsingLoop(nums, fn, init) {
     return val;
 }
 
-var nums = [1, 2, 3, 4]
-fn = function sum(accum, curr) { return accum + curr; }
-init = 0
-
+var nums = [1, 2, 3, 4], fn = function sum(accum, curr) { return accum + curr; }, init = 0
 console.log(reduceArrayUsingLoop(nums, fn, init))
+
+
+var nums1 = [1,2,3,4],fn1 = function sum1(accum, curr) { return accum + curr * curr; },init1 = 100
+console.log(reduceArrayUsingLoop(nums1, fn1, init1))
+
+
+var nums2 = [],fn2 = function sum2(accum, curr) { return 0; },init2 = 25
+console.log(reduceArrayUsingLoop(nums2, fn2, init2))
