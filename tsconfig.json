@@ -103,8 +103,5 @@
   },
   "include": [
     "src/**/*"
-],
-"scripts": {
-  "build": "rm -rf ./js/ && tsc",
-},
+]
 }
