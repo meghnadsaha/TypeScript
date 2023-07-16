@@ -31,3 +31,4 @@
 | 28  | Classes                                | [Array Wrapper](https://datayi.cn/w/1R3l3Q0P)                              | [Editorial](https://leetcode.com/problems/array-wrapper/editorial/)                              |
 | 29  | Generators                             | [Generate Fibonacci Sequence](https://datayi.cn/w/xo040MEo)                | [Editorial](https://leetcode.com/problems/generate-fibonacci-sequence/editorial/)                |
 | 30  | Generators                             | [Nested Array Generator](https://datayi.cn/w/JoOOVj1o)                     | [Editorial](https://leetcode.com/problems/nested-array-generator/editorial/)                     |
+| 31  | Join Two Arrays by ID | [Join Two Arrays by ID	](https://leetcode.com/problems/join-two-arrays-by-id/)                     | [Editorial](https://github.com/meghnadsaha/TypeScript/commit/f58ccc339cd79bde0bac3119c45e78bd2e62251c)                     |
