@@ -1,4 +1,4 @@
-# 30-Days-of-TypeScript
+# [30-Days-of-TypeScript](https://leetcode.com/studyplan/30-days-of-javascript/)
 | Day | Topic                                  | Problem                                                                    | Editorial                                                                                        |
 | --- | -------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | 1   | Closure                                | [Create Hello World Function](https://datayi.cn/w/QPDw0kJR)                | [Editorial](https://datayi.cn/w/j9yDnOOo)                                                        |
