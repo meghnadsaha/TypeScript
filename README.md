@@ -1,5 +1,5 @@
 # [30-Days-of-TypeScript](https://leetcode.com/studyplan/30-days-of-javascript/)
-# [Leet-Code-TypeScript](https://leetcode.com/studyplan/30-days-of-javascript/)
+ [LeetCode-of-TypeScript](https://leetcode.com/problemset/javascript/?page=1&sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D)
 
 | Day | Topic                                  | Problem                                                                    | Editorial                                                                                        |
 | --- | -------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
