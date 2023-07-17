@@ -1,7 +1,7 @@
 # Debugging!
 
 
-- ✨Debugg Typescript in VS-Code ✨
+- ✨Debug🐞  🐛 Typescript in VS-Code ✨
 
 ## Installation
 
