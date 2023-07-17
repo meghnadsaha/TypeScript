@@ -2,6 +2,7 @@
 
 
 - ✨Debug🐞  🐛 Typescript in VS-Code ✨
+- let’s debug TypeScript files and find bugs! 🦗🐌🐛🕷🐞
 
 ## Installation
 
